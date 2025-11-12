@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <br><br>
 
 
@@ -24,7 +24,7 @@
 I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript and React/Next.js, with UI prototypes in Figma. On the server side I use Node.js with Prisma and databases like MongoDB or Firebase for data and auth. I follow best practices for code quality, testing and deployment — pushing production builds to Vercel and maintaining a tidy Git & GitHub workflow.
 ###
 <div align="center">
-  <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  />
+  <img height="250" width="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  />
 </div>
 
 ###
@@ -79,6 +79,6 @@ I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript a
 <i>If you need a portfolio site, an e-commerce prototype, or a customer-facing web app — I can take an idea from concept to deployed product. I’m available for freelance work and small teams.<br>
 Want to collaborate? — drop me a message or open an issue on my repo.</i>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
 
 
