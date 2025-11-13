@@ -4,13 +4,21 @@
 
 
 ###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+<div align="centre">
+  <a href="https://www.linkedin.com/in/arcane-anuj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/Unpredic_arcane?t=7pkfAhUpsuzHEsVtpYhtRw&s=09">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="https://www.instagram.com/unpredictable_arcane?igsh=c2N2OW44djZ2eDIx">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -18,10 +26,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=unpredictable-arcane.unpredictable-arcane&"  />
 </div>
 
-### 👋 Hello
- — I’m a full-stack web developer focused on building practical, high-quality web applications.
+## 👋 Hello
+ <b>— I’m a full-stack web developer focused on building practical, high-quality web applications.
 
-I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript and React/Next.js, with UI prototypes in Figma. On the server side I use Node.js with Prisma and databases like MongoDB or Firebase for data and auth. I follow best practices for code quality, testing and deployment — pushing production builds to Vercel and maintaining a tidy Git & GitHub workflow.
+I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript and React/Next.js, with UI prototypes in Figma. On the server side I use Node.js with Prisma and databases like MongoDB or Firebase for data and auth. I follow best practices for code quality, testing and deployment — pushing production builds to Vercel and maintaining a tidy Git & GitHub workflow.</b>
 ###
 <div align="center">
   <img height="250" width="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  />
@@ -76,9 +84,12 @@ I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript a
 </div>
 
 ###
-<i>If you need a portfolio site, an e-commerce prototype, or a customer-facing web app — I can take an idea from concept to deployed product. I’m available for freelance work and small teams.<br>
-Want to collaborate? — drop me a message or open an issue on my repo.</i>
+<b><i>I build portfolio sites and e-commerce/shop websites — from concept to deployed product.  
+Whether you need a personal portfolio, a shop to sell products, or a simple web presence for your business, I can design, develop and deploy a production-ready site.  
+Available for freelance projects and small teams — let’s turn your idea into a live product.<br>
+Want to collaborate? — drop me a message or open an issue on my repo.</i></b>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
+
 
 
