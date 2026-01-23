@@ -79,15 +79,10 @@ I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript a
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=unpredictable-arcane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
-<b><i>I build portfolio sites and e-commerce/shop websites — from concept to deployed product.  
-Whether you need a personal portfolio, a shop to sell products, or a simple web presence for your business, I can design, develop and deploy a production-ready site.  
-Available for freelance projects and small teams — let’s turn your idea into a live product.<br>
-Want to collaborate? — drop me a message or open an issue on my repo.</i></b>
+
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
 
