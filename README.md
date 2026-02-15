@@ -1,37 +1,39 @@
+## 👋 Hello World
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <br><br>
 
 
 
 ###
-<div align="centre">
-  <a href="https://www.linkedin.com/in/arcane-anuj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/> 
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/trb-anuj">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://x.com/Unpredic_arcane?t=7pkfAhUpsuzHEsVtpYhtRw&s=09">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://www.instagram.com/unpredictable_arcane?igsh=c2N2OW44djZ2eDIx">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-  </a>
 </div>
 
-
+###
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=unpredictable-arcane.unpredictable-arcane&"  />
 </div>
 
-## 👋 Hello
- <b>— I’m a full-stack web developer focused on building practical, high-quality web applications.
 
-I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript and React/Next.js, with UI prototypes in Figma. On the server side I use Node.js with Prisma and databases like MongoDB or Firebase for data and auth. I follow best practices for code quality, testing and deployment — pushing production builds to Vercel and maintaining a tidy Git & GitHub workflow.</b>
+
+
 ###
-<div align="center">
+<div align="left">
   <img height="250" width="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  />
 </div>
 
@@ -75,10 +77,32 @@ I design and implement modern frontend using HTML5, CSS (Tailwind), JavaScript a
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unpredictable-arcane&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unpredictable-arcane&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
 ###
