@@ -50,16 +50,18 @@ lines=%5B++++OK++++%5D+Booting+Arch+Linux...
 ;unpredictable-arcane;_" alt="Terminal Animation"/>
 </div>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=58A6FF&lines=Hello+World;Assembly+Demo" />
+
 ###
 
-<!-- <div align="center">
+<div align="center">
   <a href="">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-</div> -->
+</div>
 
 ###
 ###
